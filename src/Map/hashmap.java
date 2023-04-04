@@ -2,7 +2,7 @@ package Map;
 
 import java.util.HashMap;
 import java.util.Set;
-
+//sdfksdjfsdkjfkdsjskjfkkkkkkk
 
 public class hashmap {
     public static void main(String[] args) {
@@ -29,12 +29,12 @@ public class hashmap {
         }
         System.out.println("--------------------------");
 
-        Set<Map.Entry<Student,String>> entries=hm.entrySet();
+       /* Set<Map.Entry<Student,String>> entries=hm.entrySet();
         for(Map.Entry<Student,String> entry:entries){
             Student key=entry.getKey();
             String value=entry.getValue();
             System.out.println(key+"="+value);
-        }
+        }*/
 
 
 
