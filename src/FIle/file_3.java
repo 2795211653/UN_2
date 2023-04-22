@@ -26,6 +26,10 @@ public class file_3 {
         File f4=new File("C:\\Users\\Chris\\Desktop\\uuu");
         boolean d = f4.delete();
         System.out.println(d);
+        File f5=new File("C:\\Users\\Chris\\Desktop\\nnn");
+        boolean d2 = f5.delete();
+        System.out.println(d2);
+
 
 
     }
